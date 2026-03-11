@@ -46,34 +46,6 @@ Database (MySQL)
 
 ---
 
-## Project Structure
-
-```
-
-employee-management-backend
-│
-├── src
-│   ├── main
-│   │   ├── java
-│   │   │   └── com.employee.management
-│   │   │       ├── controller
-│   │   │       │   └── EmployeeController.java
-│   │   │       ├── service
-│   │   │       │   └── EmployeeService.java
-│   │   │       ├── repository
-│   │   │       │   └── EmployeeRepository.java
-│   │   │       ├── entity
-│   │   │       │   └── Employee.java
-│   │   │       └── EmployeeManagementApplication.java
-│   │
-│   │   └── resources
-│   │       └── application.properties
-│
-├── pom.xml
-└── README.md
-
-```
-
 ---
 
 ## Database Configuration
